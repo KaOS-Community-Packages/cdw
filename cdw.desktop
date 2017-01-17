@@ -2,7 +2,7 @@
 Name=CDW
 Comment=Ncurses based cd/dvd burning utility
 Exec=cdw
-Icon=/usr/share/icons/hicolor/32x32/apps/cdw.png
+Icon=cdw
 StartupNotify=false
 Terminal=true
 Type=Application
